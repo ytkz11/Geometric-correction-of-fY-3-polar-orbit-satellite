@@ -7,3 +7,5 @@ Construct VRT file and then make geometric correction.
 The VRT driver is a format driver for GDAL that allows virtual GDAL datasets to be composed of other GDAL datasets, with relocation, algorithms that may be applied, and various metadata that can be changed or added. A VRT description of a data set can be saved in XML format, usually with an extension. VRT.
 
 Sample of EV_Emissive and EV_RefSB data extraction for Fy-3
+
+[![j3S4mj.jpg](https://s1.ax1x.com/2022/07/02/j3S4mj.jpg)](https://imgtu.com/i/j3S4mj)
